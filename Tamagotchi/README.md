@@ -1,3 +1,3 @@
 # Tamagotchi
 
-<img src="img/demo.jpg" />
+<img src="img/demo.png" />
