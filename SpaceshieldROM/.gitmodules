@@ -1,0 +1,3 @@
+[submodule "External/SSD1306_Display"]
+	path = External/SSD1306_Display
+	url = https://git.eve-04.ru/Spaceshield/stm32-ssd1306.git
