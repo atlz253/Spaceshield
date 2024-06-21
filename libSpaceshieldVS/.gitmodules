@@ -1,0 +1,6 @@
+[submodule "external/CImg"]
+	path = external/CImg
+	url = https://github.com/GreycLab/CImg.git
+[submodule "external/hidapi"]
+	path = external/hidapi
+	url = https://github.com/libusb/hidapi.git
