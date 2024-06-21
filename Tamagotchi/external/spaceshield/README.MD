@@ -1,0 +1,1 @@
+Репозиторий переехал: https://git.eve-04.ru/Spaceshield/libSpaceshieldVS

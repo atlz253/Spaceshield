@@ -1,0 +1,6 @@
+[submodule "external/hidapi"]
+	path = external/hidapi
+	url = https://git.eve-04.ru/Spaceshield/hidapi.git
+[submodule "external/CImg"]
+	path = external/CImg
+	url = https://git.eve-04.ru/Spaceshield/CImg.git
